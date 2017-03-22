@@ -1,0 +1,6 @@
+﻿  TestCourse.cpp
+  Course.cpp
+\\cs1\2020\lmoon20\cs172-1\assignment #3\ex04_05\ex04_05\course.cpp(76): warning C4552: '/': operator has no effect; expected operator with side-effect
+  Generating Code...
+  EX04_05.vcxproj -> \\cs1\2020\lmoon20\CS172-1\Assignment #3\EX04_05\Debug\EX04_05.exe
+  EX04_05.vcxproj -> \\cs1\2020\lmoon20\CS172-1\Assignment #3\EX04_05\Debug\EX04_05.pdb (Full PDB)
